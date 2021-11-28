@@ -1,3 +1,6 @@
+python3 .\command.py D:\misDocumentos\videos\relaxing\softColourLoop.mp4 D:\misDocumentos\videos\relaxing\satisfyingSound.m4a  d:\misDocumentos\videos\relaxing\1.mp4 d:\misDocumentos\videos\relaxing\#relaxing\clean d:\misDocumentos\videos\relaxing\out.mp4
+
+
 MoviePy
 =======
 
